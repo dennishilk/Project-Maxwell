@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/comingsoon.png" width="650" alt="Project Maxwell – Coming Soon">
-</p>
-
 <h1 align="center">Project Maxwell</h1>
 <p align="center">A modern Linux Mint–based OS designed for Windows switchers.</p>
 
@@ -20,4 +16,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Maintainer-Dennis%20Hilk-4E9A06?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="images/comingsoon.png" width="650" alt="Project Maxwell – Coming Soon">
 </p>
