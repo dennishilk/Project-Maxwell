@@ -1,5 +1,5 @@
 <h1 align="center">Project Maxwell</h1>
-<p align="center">A modern Linux Mint–based OS designed for Windows switchers.</p>
+<p align="center">A modern Linux Mint–based OS designed for Windows switchers.</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Base-Linux%20Mint%20Cinnamon-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
